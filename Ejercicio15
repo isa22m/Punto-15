@@ -1,0 +1,6 @@
+# Pedir al usuario que introduzca una palabra
+palabra = input("Introduce una palabra: ")
+
+# Mostrar la palabra 10 veces
+for _ in range(10):
+    print(palabra)
